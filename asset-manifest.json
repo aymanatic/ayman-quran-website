@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ayman-quran-website/static/css/main.f742b236.css",
+    "main.js": "/ayman-quran-website/static/js/main.ef267fed.js",
+    "static/js/787.a2cb61a6.chunk.js": "/ayman-quran-website/static/js/787.a2cb61a6.chunk.js",
+    "static/media/preview-fatihah.png": "/ayman-quran-website/static/media/preview-fatihah.24a3e01744ac72f47ac5.png",
+    "static/media/logoIntroWNoise-Channel.mp4": "/ayman-quran-website/static/media/logoIntroWNoise-Channel.c93f3fb6978d996cf0b8.mp4",
+    "static/media/Al-Fatihah.pdf": "/ayman-quran-website/static/media/Al-Fatihah.ecc26087e9fdd7652c67.pdf",
+    "static/media/bg.jpg": "/ayman-quran-website/static/media/bg.194474cbc3734c814b8f.jpg",
+    "static/media/Ayman-blacklogo-Channel.png": "/ayman-quran-website/static/media/Ayman-blacklogo-Channel.cea0f42ae4f3c4c4502b.png",
+    "static/media/Apple Chancery.ttf": "/ayman-quran-website/static/media/Apple Chancery.dc377403edfa740fdccd.ttf",
+    "static/media/qr-code.png": "/ayman-quran-website/static/media/qr-code.f8f82a5bcfe22b32a479.png",
+    "static/media/helvetica-neu.ttf": "/ayman-quran-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/fatihah.png": "/ayman-quran-website/static/media/fatihah.53845d3ea25f99546efd.png",
+    "static/media/LaBelleAurore.woff2": "/ayman-quran-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/revicons.eot": "/ayman-quran-website/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ayman-quran-website/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/CoolveticaRg-Regular.woff2": "/ayman-quran-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/revicons.woff": "/ayman-quran-website/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/ayman-quran-website/index.html",
+    "main.f742b236.css.map": "/ayman-quran-website/static/css/main.f742b236.css.map",
+    "main.ef267fed.js.map": "/ayman-quran-website/static/js/main.ef267fed.js.map",
+    "787.a2cb61a6.chunk.js.map": "/ayman-quran-website/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f742b236.css",
+    "static/js/main.ef267fed.js"
+  ]
+}
