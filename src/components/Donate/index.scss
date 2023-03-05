@@ -1,0 +1,50 @@
+.donate-page{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+    align-items: center;
+
+    h1 {
+        font-weight: 400;
+        animation: fadeIn 1s 1.8s backwards;
+        text-shadow: 0px 3px 3px #000;
+        color: #ededed;
+        font-size: 35px;
+        font-family: 'Coolvetica';
+    }
+
+    .description {
+        padding: 10px;
+
+        background-color: rgb(0, 0, 0, 0.6);
+        font-family: 'Coolvetica';
+        font-weight: 200;
+        width: 60%;
+        color: #ededed;
+        border: 2px solid #ededed;
+    }
+
+    .flat-button2{
+        border: 2px solid #ededed;
+        color: #ededed;
+        background-color: #f96d00;
+    }
+
+    .flat-button2:hover{
+        border: 2px solid #f96d00;
+        color: #f96d00;
+        background-color: #ededed;
+    }
+
+    .qr-code{
+        margin-top: 50px;
+        background-color: #f96d00;
+        width: 200px;
+        height: 200px;
+        background-image: url(../../assets/images/qr-code.png);
+        background-size: cover;
+    }
+    
+
+}
